@@ -1,5 +1,5 @@
-                                     ### Hi there 👋
-                                     ### I am Amrutha 
+                                         Hi there 👋
+                                         I am Amrutha 
  
 
 
