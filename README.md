@@ -1,4 +1,7 @@
-### Hi there 
+                                     ### Hi there 👋
+                                     ### I am Amrutha 
+ 
+
 
 <!--
 **AmruthaBhat12/AmruthaBhat12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
